@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there, I'm Ponas! 👋
 
-<!--
-**ForceGROUP/ForceGROUP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img aling="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForceGROUP&layout=compact" />
 
-Here are some ideas to get you started:
+<img aling="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ForceGROUP&show_icons=true&theme=radical" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
